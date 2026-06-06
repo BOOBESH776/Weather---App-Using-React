@@ -1,0 +1,5147 @@
+[
+  {
+    "country": "Afghanistan",
+    "capital": "Kabul",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 34,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 32,
+    "humidity": 22,
+    "wind_kmh": 18,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 34,
+        "low": 18
+      },
+      {
+        "day": "Wed",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 17
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 36,
+        "low": 19
+      },
+      {
+        "day": "Fri",
+        "icon": "🌥️",
+        "condition": "Cloudy",
+        "high": 31,
+        "low": 16
+      },
+      {
+        "day": "Sat",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 28,
+        "low": 15
+      },
+      {
+        "day": "Sun",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 27,
+        "low": 14
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 18
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 34
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 33
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌤️",
+        "temp": 31
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 24
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 22
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 21
+      }
+    ]
+  },
+  {
+    "country": "Armenia",
+    "capital": "Yerevan",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 36,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 34,
+    "humidity": 28,
+    "wind_kmh": 12,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 36,
+        "low": 22
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 23
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 35,
+        "low": 21
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 34,
+        "low": 20
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 31,
+        "low": 19
+      },
+      {
+        "day": "Sun",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 18
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 22
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 36
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 35
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 34
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 32
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 24
+      }
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "capital": "Baku",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 38,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 36,
+    "humidity": 52,
+    "wind_kmh": 22,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 26
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 27
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 40,
+        "low": 27
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 37,
+        "low": 25
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 36,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 23
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 25
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 37
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 36
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 34
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 31
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 28
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 27
+      }
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "capital": "Manama",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 42,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 47,
+    "humidity": 68,
+    "wind_kmh": 16,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 32
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 33
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 32
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 41,
+        "low": 31
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 32
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 40,
+        "low": 31
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 32
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 42
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 41
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 40
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 38
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 36
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 35
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 34
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 33
+      }
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "capital": "Dhaka",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 32,
+    "weather_condition": "Thunderstorm",
+    "weather_icon": "⛈️",
+    "feels_like": 38,
+    "humidity": 88,
+    "wind_kmh": 24,
+    "precipitation_mm": 14,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 30,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 26
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 30,
+        "low": 25
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛈️",
+        "temp": 32
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛈️",
+        "temp": 31
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 30
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌦️",
+        "temp": 27
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌦️",
+        "temp": 27
+      }
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "capital": "Thimphu",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 18,
+    "weather_condition": "Cloudy",
+    "weather_icon": "🌥️",
+    "feels_like": 16,
+    "humidity": 74,
+    "wind_kmh": 10,
+    "precipitation_mm": 8,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌥️",
+        "condition": "Cloudy",
+        "high": 18,
+        "low": 12
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 16,
+        "low": 11
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 15,
+        "low": 10
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 17,
+        "low": 11
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 20,
+        "low": 12
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 21,
+        "low": 13
+      },
+      {
+        "day": "Mon",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 16,
+        "low": 11
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌥️",
+        "temp": 18
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌧️",
+        "temp": 17
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 16
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 15
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌥️",
+        "temp": 14
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 13
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 13
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 12
+      }
+    ]
+  },
+  {
+    "country": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 31,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 36,
+    "humidity": 82,
+    "wind_kmh": 14,
+    "precipitation_mm": 4,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 30,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 29,
+        "low": 23
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 30,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 32,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 31
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌦️",
+        "temp": 30
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "capital": "Phnom Penh",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 33,
+    "weather_condition": "Thunderstorm",
+    "weather_icon": "⛈️",
+    "feels_like": 39,
+    "humidity": 85,
+    "wind_kmh": 18,
+    "precipitation_mm": 11,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 33,
+        "low": 25
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 34,
+        "low": 25
+      },
+      {
+        "day": "Sat",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Mon",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 25
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛈️",
+        "temp": 33
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛈️",
+        "temp": 32
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 30
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 28
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 26
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "capital": "Beijing",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 33,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 36,
+    "humidity": 62,
+    "wind_kmh": 16,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 31,
+        "low": 23
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 22
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 32,
+        "low": 23
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 36,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 32,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 33
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌤️",
+        "temp": 32
+      },
+      {
+        "time": "5 PM",
+        "icon": "⛅",
+        "temp": 31
+      },
+      {
+        "time": "6 PM",
+        "icon": "⛅",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "capital": "Nicosia",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 38,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 36,
+    "humidity": 34,
+    "wind_kmh": 20,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 26
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 26
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 40,
+        "low": 27
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 27
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 37,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 26
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 40,
+        "low": 27
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 37
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 35
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌤️",
+        "temp": 33
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 31
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 28
+      }
+    ]
+  },
+  {
+    "country": "Georgia",
+    "capital": "Tbilisi",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 34,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 33,
+    "humidity": 44,
+    "wind_kmh": 12,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 34,
+        "low": 20
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 36,
+        "low": 21
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 30,
+        "low": 18
+      },
+      {
+        "day": "Fri",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 29,
+        "low": 18
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 33,
+        "low": 19
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 21
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 20
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 34
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌤️",
+        "temp": 33
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌤️",
+        "temp": 32
+      },
+      {
+        "time": "6 PM",
+        "icon": "⛅",
+        "temp": 30
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 23
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 22
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "capital": "New Delhi",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 35,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 42,
+    "humidity": 72,
+    "wind_kmh": 20,
+    "precipitation_mm": 6,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 35,
+        "low": 27
+      },
+      {
+        "day": "Wed",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 33,
+        "low": 26
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 26
+      },
+      {
+        "day": "Fri",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 30,
+        "low": 25
+      },
+      {
+        "day": "Sat",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Sun",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 34,
+        "low": 27
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 35,
+        "low": 27
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 35
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌦️",
+        "temp": 34
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 32
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 31
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 30
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 28
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 28
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "capital": "Jakarta",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 30,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 35,
+    "humidity": 76,
+    "wind_kmh": 14,
+    "precipitation_mm": 2,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 29,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 23
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 28,
+        "low": 23
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 30
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛅",
+        "temp": 29
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌦️",
+        "temp": 28
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 27
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 26
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Iran",
+    "capital": "Tehran",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 37,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 35,
+    "humidity": 26,
+    "wind_kmh": 16,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 36,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 37
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 36
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 35
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 33
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 30
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 28
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Iraq",
+    "capital": "Baghdad",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 46,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 44,
+    "humidity": 18,
+    "wind_kmh": 22,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 46,
+        "low": 32
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 47,
+        "low": 33
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 47,
+        "low": 33
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 45,
+        "low": 31
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 46,
+        "low": 32
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 45,
+        "low": 31
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 46,
+        "low": 32
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 46
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 45
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 44
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 41
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 38
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 36
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 34
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 33
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "capital": "Jerusalem",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 30,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 29,
+    "humidity": 42,
+    "wind_kmh": 18,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 30,
+        "low": 20
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 31,
+        "low": 21
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 32,
+        "low": 21
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 20
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 31,
+        "low": 20
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 32,
+        "low": 21
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 31,
+        "low": 20
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 30
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 29
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 28
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 27
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 23
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 22
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 21
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "capital": "Tokyo",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 34,
+    "weather_condition": "Mostly Cloudy",
+    "weather_icon": "⛅",
+    "feels_like": 38,
+    "humidity": 76,
+    "wind_kmh": 14,
+    "precipitation_mm": 3,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 34,
+        "low": 27
+      },
+      {
+        "day": "Wed",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 26
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 26
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 27
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 36,
+        "low": 28
+      },
+      {
+        "day": "Mon",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 27
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛅",
+        "temp": 34
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛅",
+        "temp": 33
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌦️",
+        "temp": 32
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 31
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 30
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 28
+      }
+    ]
+  },
+  {
+    "country": "Jordan",
+    "capital": "Amman",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 33,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 31,
+    "humidity": 30,
+    "wind_kmh": 16,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 33,
+        "low": 21
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 34,
+        "low": 22
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 22
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 34,
+        "low": 22
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 32,
+        "low": 20
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 33,
+        "low": 21
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 22
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 33
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 32
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 31
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 23
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 22
+      }
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "capital": "Astana",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 28,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 26,
+    "humidity": 36,
+    "wind_kmh": 22,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 28,
+        "low": 16
+      },
+      {
+        "day": "Wed",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 27,
+        "low": 15
+      },
+      {
+        "day": "Thu",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 25,
+        "low": 14
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 23,
+        "low": 13
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 27,
+        "low": 15
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 29,
+        "low": 17
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 27,
+        "low": 15
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 28
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 27
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌤️",
+        "temp": 25
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 23
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 21
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 19
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 18
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 17
+      }
+    ]
+  },
+  {
+    "country": "North Korea",
+    "capital": "Pyongyang",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 30,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 33,
+    "humidity": 70,
+    "wind_kmh": 12,
+    "precipitation_mm": 2,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 23
+      },
+      {
+        "day": "Wed",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 28,
+        "low": 22
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 27,
+        "low": 22
+      },
+      {
+        "day": "Fri",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 29,
+        "low": 23
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 32,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Mon",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 29,
+        "low": 23
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 30
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛅",
+        "temp": 29
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌦️",
+        "temp": 28
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 27
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 26
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 24
+      }
+    ]
+  },
+  {
+    "country": "South Korea",
+    "capital": "Seoul",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 31,
+    "weather_condition": "Mostly Cloudy",
+    "weather_icon": "⛅",
+    "feels_like": 35,
+    "humidity": 74,
+    "wind_kmh": 14,
+    "precipitation_mm": 5,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 29,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 28,
+        "low": 24
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 30,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 33,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 34,
+        "low": 26
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 32,
+        "low": 25
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛅",
+        "temp": 31
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌦️",
+        "temp": 30
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 26
+      }
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "capital": "Kuwait City",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 45,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 50,
+    "humidity": 42,
+    "wind_kmh": 26,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 45,
+        "low": 34
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 46,
+        "low": 34
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 46,
+        "low": 35
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 33
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 45,
+        "low": 34
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 43,
+        "low": 33
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 45,
+        "low": 34
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 45
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 44
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 43
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 41
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 39
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 37
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 36
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 35
+      }
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 36,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 34,
+    "humidity": 28,
+    "wind_kmh": 16,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 36,
+        "low": 20
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 21
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 34,
+        "low": 19
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 30,
+        "low": 18
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 29,
+        "low": 17
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 34,
+        "low": 19
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 36,
+        "low": 20
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 36
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 35
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌤️",
+        "temp": 33
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 31
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 23
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 21
+      }
+    ]
+  },
+  {
+    "country": "Laos",
+    "capital": "Vientiane",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 32,
+    "weather_condition": "Thunderstorm",
+    "weather_icon": "⛈️",
+    "feels_like": 38,
+    "humidity": 86,
+    "wind_kmh": 20,
+    "precipitation_mm": 13,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 30,
+        "low": 23
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Fri",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 25
+      },
+      {
+        "day": "Sat",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 30,
+        "low": 23
+      },
+      {
+        "day": "Mon",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 31,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛈️",
+        "temp": 32
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛈️",
+        "temp": 31
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "capital": "Beirut",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 30,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 32,
+    "humidity": 68,
+    "wind_kmh": 18,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 30,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 23
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 30
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 30
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 29
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 28
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 33,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 38,
+    "humidity": 80,
+    "wind_kmh": 12,
+    "precipitation_mm": 4,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 24
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 23
+      },
+      {
+        "day": "Sun",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 32,
+        "low": 24
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 33
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛅",
+        "temp": 32
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌦️",
+        "temp": 30
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 28
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Maldives",
+    "capital": "Malé",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 30,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 34,
+    "humidity": 82,
+    "wind_kmh": 22,
+    "precipitation_mm": 6,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 26
+      },
+      {
+        "day": "Wed",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 26
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 29,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 26
+      },
+      {
+        "day": "Sat",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 30,
+        "low": 26
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 31,
+        "low": 26
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 30
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌦️",
+        "temp": 29
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 28
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 27
+      }
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 24,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 22,
+    "humidity": 40,
+    "wind_kmh": 26,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 24,
+        "low": 11
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 26,
+        "low": 12
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 23,
+        "low": 10
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 19,
+        "low": 9
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 20,
+        "low": 8
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 25,
+        "low": 11
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 27,
+        "low": 13
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 24
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌤️",
+        "temp": 22
+      },
+      {
+        "time": "5 PM",
+        "icon": "⛅",
+        "temp": 20
+      },
+      {
+        "time": "6 PM",
+        "icon": "⛅",
+        "temp": 18
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 16
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 14
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 13
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 12
+      }
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "capital": "Naypyidaw",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 30,
+    "weather_condition": "Heavy Rain",
+    "weather_icon": "🌧️",
+    "feels_like": 35,
+    "humidity": 88,
+    "wind_kmh": 18,
+    "precipitation_mm": 18,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 30,
+        "low": 23
+      },
+      {
+        "day": "Wed",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 29,
+        "low": 23
+      },
+      {
+        "day": "Thu",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 29,
+        "low": 22
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 31,
+        "low": 23
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 32,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 30,
+        "low": 23
+      },
+      {
+        "day": "Mon",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 29,
+        "low": 22
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌧️",
+        "temp": 30
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "5 PM",
+        "icon": "⛈️",
+        "temp": 28
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 27
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌧️",
+        "temp": 26
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌦️",
+        "temp": 25
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 24
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 24
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "capital": "Kathmandu",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 25,
+    "weather_condition": "Showers",
+    "weather_icon": "🌦️",
+    "feels_like": 26,
+    "humidity": 80,
+    "wind_kmh": 10,
+    "precipitation_mm": 9,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 25,
+        "low": 19
+      },
+      {
+        "day": "Wed",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 23,
+        "low": 18
+      },
+      {
+        "day": "Thu",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 22,
+        "low": 18
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 24,
+        "low": 18
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 26,
+        "low": 19
+      },
+      {
+        "day": "Sun",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 24,
+        "low": 18
+      },
+      {
+        "day": "Mon",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 23,
+        "low": 18
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌦️",
+        "temp": 25
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌧️",
+        "temp": 24
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 23
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 22
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 21
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 20
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 20
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 19
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "capital": "Muscat",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 40,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 46,
+    "humidity": 62,
+    "wind_kmh": 18,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 40,
+        "low": 32
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 41,
+        "low": 33
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 41,
+        "low": 32
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 40,
+        "low": 32
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 38,
+        "low": 31
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 40,
+        "low": 32
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 41,
+        "low": 33
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 40
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 39
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 37
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 35
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 34
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 33
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 33
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 36,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 38,
+    "humidity": 58,
+    "wind_kmh": 20,
+    "precipitation_mm": 4,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 36,
+        "low": 26
+      },
+      {
+        "day": "Wed",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 33,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 35,
+        "low": 26
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 27
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 36,
+        "low": 26
+      },
+      {
+        "day": "Mon",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 33,
+        "low": 25
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 36
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌤️",
+        "temp": 35
+      },
+      {
+        "time": "5 PM",
+        "icon": "⛅",
+        "temp": 33
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌦️",
+        "temp": 31
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 30
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 28
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 27
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "capital": "Manila",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 31,
+    "weather_condition": "Thunderstorm",
+    "weather_icon": "⛈️",
+    "feels_like": 36,
+    "humidity": 86,
+    "wind_kmh": 28,
+    "precipitation_mm": 16,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 29,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 30,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 30,
+        "low": 24
+      },
+      {
+        "day": "Mon",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 29,
+        "low": 24
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛈️",
+        "temp": 31
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛈️",
+        "temp": 30
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 26
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "capital": "Doha",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 43,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 50,
+    "humidity": 60,
+    "wind_kmh": 20,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 33
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 34
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 34
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 33
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 33
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 41,
+        "low": 32
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 33
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 43
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 42
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 41
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 39
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 37
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 36
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 35
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 34
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "capital": "Moscow",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 22,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 21,
+    "humidity": 54,
+    "wind_kmh": 14,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 22,
+        "low": 14
+      },
+      {
+        "day": "Wed",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 20,
+        "low": 13
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 18,
+        "low": 12
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 23,
+        "low": 14
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 25,
+        "low": 15
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 23,
+        "low": 14
+      },
+      {
+        "day": "Mon",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 20,
+        "low": 13
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 22
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌤️",
+        "temp": 21
+      },
+      {
+        "time": "5 PM",
+        "icon": "⛅",
+        "temp": 20
+      },
+      {
+        "time": "6 PM",
+        "icon": "⛅",
+        "temp": 18
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 17
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 16
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 15
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 15
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "capital": "Riyadh",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 44,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 41,
+    "humidity": 14,
+    "wind_kmh": 24,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 32
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 45,
+        "low": 32
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 45,
+        "low": 33
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 32
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 31
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 32
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 42,
+        "low": 30
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 44
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 43
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 42
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 40
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 38
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 36
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 35
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 34
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "capital": "Singapore",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 30,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 36,
+    "humidity": 82,
+    "wind_kmh": 16,
+    "precipitation_mm": 3,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 25
+      },
+      {
+        "day": "Wed",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 29,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 30,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Sat",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 30,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 30,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 31,
+        "low": 26
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 30
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛅",
+        "temp": 30
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌦️",
+        "temp": 29
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 27
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 26
+      }
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "capital": "Colombo",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 29,
+    "weather_condition": "Showers",
+    "weather_icon": "🌦️",
+    "feels_like": 33,
+    "humidity": 84,
+    "wind_kmh": 22,
+    "precipitation_mm": 10,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 28,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 28,
+        "low": 23
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 30,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 29,
+        "low": 24
+      },
+      {
+        "day": "Mon",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 28,
+        "low": 23
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌦️",
+        "temp": 29
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌧️",
+        "temp": 28
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 27
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 27
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 26
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 25
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Syria",
+    "capital": "Damascus",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 38,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 36,
+    "humidity": 22,
+    "wind_kmh": 14,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 23
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 24
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 23
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 36,
+        "low": 22
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 23
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 24
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 23
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 37
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 36
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 34
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 31
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 25
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "capital": "Taipei",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 34,
+    "weather_condition": "Mostly Cloudy",
+    "weather_icon": "⛅",
+    "feels_like": 38,
+    "humidity": 78,
+    "wind_kmh": 16,
+    "precipitation_mm": 4,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 34,
+        "low": 27
+      },
+      {
+        "day": "Wed",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Thu",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 31,
+        "low": 26
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 27
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 34,
+        "low": 27
+      },
+      {
+        "day": "Sun",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 27
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛅",
+        "temp": 34
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛅",
+        "temp": 33
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌦️",
+        "temp": 32
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 31
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 30
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 28
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 28
+      }
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "capital": "Dushanbe",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 38,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 36,
+    "humidity": 24,
+    "wind_kmh": 12,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 36,
+        "low": 23
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 23
+      },
+      {
+        "day": "Sat",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 31,
+        "low": 20
+      },
+      {
+        "day": "Sun",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 21
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 37,
+        "low": 23
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 37
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 35
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 33
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 30
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 28
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 26
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "capital": "Bangkok",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 33,
+    "weather_condition": "Thunderstorm",
+    "weather_icon": "⛈️",
+    "feels_like": 39,
+    "humidity": 84,
+    "wind_kmh": 18,
+    "precipitation_mm": 12,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 33,
+        "low": 26
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Fri",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 26
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 26
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛈️",
+        "temp": 33
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛈️",
+        "temp": 32
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 30
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 28
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 28
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 27
+      }
+    ]
+  },
+  {
+    "country": "Timor-Leste",
+    "capital": "Dili",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 27,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 29,
+    "humidity": 70,
+    "wind_kmh": 18,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 27,
+        "low": 20
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 28,
+        "low": 20
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 27,
+        "low": 19
+      },
+      {
+        "day": "Fri",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 26,
+        "low": 19
+      },
+      {
+        "day": "Sat",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 25,
+        "low": 18
+      },
+      {
+        "day": "Sun",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 27,
+        "low": 20
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 29,
+        "low": 20
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 27
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌤️",
+        "temp": 26
+      },
+      {
+        "time": "5 PM",
+        "icon": "⛅",
+        "temp": 25
+      },
+      {
+        "time": "6 PM",
+        "icon": "⛅",
+        "temp": 24
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 23
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 22
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 21
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 21
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "capital": "Ankara",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 34,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 32,
+    "humidity": 34,
+    "wind_kmh": 18,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 34,
+        "low": 20
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 35,
+        "low": 21
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 33,
+        "low": 20
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 28,
+        "low": 17
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 32,
+        "low": 19
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 34,
+        "low": 20
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 32,
+        "low": 19
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 34
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 33
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 31
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 26
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 24
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 23
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 22
+      }
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "capital": "Ashgabat",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 42,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 40,
+    "humidity": 16,
+    "wind_kmh": 20,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 28
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 28
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 29
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 28
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 40,
+        "low": 27
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 28
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 29
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 42
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 41
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 40
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 35
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 33
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 31
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 30
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 43,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 50,
+    "humidity": 64,
+    "wind_kmh": 22,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 34
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 34
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 44,
+        "low": 35
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 42,
+        "low": 33
+      },
+      {
+        "day": "Sat",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 41,
+        "low": 33
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 34
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 43,
+        "low": 34
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 43
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 42
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 41
+      },
+      {
+        "time": "6 PM",
+        "icon": "☀️",
+        "temp": 40
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 38
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 37
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 36
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 35
+      }
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "capital": "Tashkent",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 38,
+    "weather_condition": "Sunny",
+    "weather_icon": "☀️",
+    "feels_like": 36,
+    "humidity": 22,
+    "wind_kmh": 16,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 24
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 40,
+        "low": 25
+      },
+      {
+        "day": "Fri",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 37,
+        "low": 24
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 38,
+        "low": 24
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 39,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 36,
+        "low": 23
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "☀️",
+        "temp": 38
+      },
+      {
+        "time": "4 PM",
+        "icon": "☀️",
+        "temp": 37
+      },
+      {
+        "time": "5 PM",
+        "icon": "☀️",
+        "temp": 36
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌤️",
+        "temp": 34
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 31
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 29
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 26
+      }
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "capital": "Hanoi",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 33,
+    "weather_condition": "Thunderstorm",
+    "weather_icon": "⛈️",
+    "feels_like": 38,
+    "humidity": 82,
+    "wind_kmh": 20,
+    "precipitation_mm": 14,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 33,
+        "low": 26
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "condition": "Heavy Rain",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Thu",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 26
+      },
+      {
+        "day": "Fri",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 33,
+        "low": 26
+      },
+      {
+        "day": "Sat",
+        "icon": "⛈️",
+        "condition": "Thunderstorm",
+        "high": 32,
+        "low": 25
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "condition": "Rain",
+        "high": 31,
+        "low": 25
+      },
+      {
+        "day": "Mon",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 32,
+        "low": 26
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "⛈️",
+        "temp": 33
+      },
+      {
+        "time": "4 PM",
+        "icon": "⛈️",
+        "temp": 32
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌧️",
+        "temp": 30
+      },
+      {
+        "time": "6 PM",
+        "icon": "🌧️",
+        "temp": 29
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌦️",
+        "temp": 28
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 27
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 27
+      }
+    ]
+  },
+  {
+    "country": "Yemen",
+    "capital": "Sana'a",
+    "date": "Tuesday, Aug 5, 2025",
+    "temperature": 28,
+    "weather_condition": "Partly Cloudy",
+    "weather_icon": "🌤️",
+    "feels_like": 26,
+    "humidity": 38,
+    "wind_kmh": 20,
+    "precipitation_mm": 0,
+    "daily_forecast": [
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 28,
+        "low": 16
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 29,
+        "low": 16
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "condition": "Partly Cloudy",
+        "high": 27,
+        "low": 15
+      },
+      {
+        "day": "Fri",
+        "icon": "🌦️",
+        "condition": "Showers",
+        "high": 25,
+        "low": 14
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "condition": "Mostly Cloudy",
+        "high": 24,
+        "low": 14
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 28,
+        "low": 16
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "condition": "Sunny",
+        "high": 29,
+        "low": 16
+      }
+    ],
+    "hourly_forecast": [
+      {
+        "time": "3 PM",
+        "icon": "🌤️",
+        "temp": 28
+      },
+      {
+        "time": "4 PM",
+        "icon": "🌤️",
+        "temp": 27
+      },
+      {
+        "time": "5 PM",
+        "icon": "🌤️",
+        "temp": 26
+      },
+      {
+        "time": "6 PM",
+        "icon": "⛅",
+        "temp": 24
+      },
+      {
+        "time": "7 PM",
+        "icon": "🌙",
+        "temp": 22
+      },
+      {
+        "time": "8 PM",
+        "icon": "🌙",
+        "temp": 20
+      },
+      {
+        "time": "9 PM",
+        "icon": "🌙",
+        "temp": 18
+      },
+      {
+        "time": "10 PM",
+        "icon": "🌙",
+        "temp": 17
+      }
+    ]
+  }
+]

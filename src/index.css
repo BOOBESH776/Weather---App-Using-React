@@ -1,0 +1,15 @@
+
+.WeatherApp{
+    background: #01012A;
+    height: max-content; 
+}
+.HourlyWeather{
+    background: #242540;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    width: 100%;
+}
+
+.card{
+    color: white;
+}
