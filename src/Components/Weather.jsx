@@ -36,7 +36,11 @@ const Weather = () => {
             {/* nav */}
 
             {/* hero */}
-
+            <div className='row m-1'>
+                <div className='col-lg-12 col-md-12 col-sm-12  text-center gap-2 p-3'>
+                    <h2 className='mb-0 m-1 text-white'>How The Sky Looks Today?</h2>
+                </div>
+            </div>
             <div className='row d-flex justify-content-center align-items-center m-2'>
                 <div className='col-lg-5 col-md-12 col-sm-12 d-flex justify-content-center align-items-center'>
                     <input
